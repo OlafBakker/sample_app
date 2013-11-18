@@ -11,4 +11,3 @@ describe "User pages" do
     it { should have_title(full_title('Sign up')) }
   end
 end
-
